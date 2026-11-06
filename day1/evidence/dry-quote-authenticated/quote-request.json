@@ -1,0 +1,18 @@
+{
+  "label": "PROVIDER_REQUEST / DRY_QUOTE / NOT_A_SETTLEMENT",
+  "retrievedAt": "2026-11-06T19:08:52.253Z",
+  "request": {
+    "dry": true,
+    "swapType": "EXACT_INPUT",
+    "slippageTolerance": 100,
+    "originAsset": "nep141:base-0x833589fcd6edb6e08f4c7c32d4f71b54bda02913.omft.near",
+    "depositType": "ORIGIN_CHAIN",
+    "destinationAsset": "nep141:arb-0xaf88d065e77c8cc2239327c5edb3a432268e5831.omft.near",
+    "amount": "1000000",
+    "refundTo": "0x2527D02599Ba641c19FEa793cD0F167589a0f10D",
+    "refundType": "ORIGIN_CHAIN",
+    "recipient": "0x2527D02599Ba641c19FEa793cD0F167589a0f10D",
+    "recipientType": "DESTINATION_CHAIN",
+    "deadline": "2026-11-06T19:38:51.535Z"
+  }
+}

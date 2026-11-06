@@ -1,0 +1,19 @@
+{
+  "label": "DERIVED",
+  "retrievedAt": "2026-11-06T19:08:52.253Z",
+  "source": "https://1click.chaindefuser.com",
+  "files": [
+    {
+      "fileName": "quote-request.json",
+      "sha256": "786ff8e56c05620085f6c685912ad83c86aefce590fe4a7b7cab70f64c2c8630"
+    },
+    {
+      "fileName": "quote-response.json",
+      "sha256": "7d93727bd45d5ec29810dd57583d60e03f8b8aa85e9959d492d778f360c1e219"
+    },
+    {
+      "fileName": "quote-signature-verification.json",
+      "sha256": "981c0a35e3fd5b8784e3274127144e365a24b460aef19e4f173a8d9ce7312336"
+    }
+  ]
+}

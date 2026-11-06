@@ -1,0 +1,20 @@
+{
+  "label": "DERIVED / EVIDENCE_MANIFEST",
+  "retrievedAt": "2026-11-06T19:14:50.585Z",
+  "source": "https://1click.chaindefuser.com",
+  "sdk": "@defuse-protocol/one-click-sdk-typescript@0.1.26",
+  "files": [
+    {
+      "fileName": "route-summary.json",
+      "sha256": "cba54f32370f47456d0324963c8d194afde50929f5c93a8c7f76177fab69f937"
+    },
+    {
+      "fileName": "quote-summary.json",
+      "sha256": "4796abfc94d886e7c34f0434f4f7841e9b3f2e46ec36c3999b9e5e41a8e0e00b"
+    },
+    {
+      "fileName": "signature-verification.json",
+      "sha256": "d766cafe96b1cada64e5ee27a132c49e280d311686dde3546821ac687943fca8"
+    }
+  ]
+}

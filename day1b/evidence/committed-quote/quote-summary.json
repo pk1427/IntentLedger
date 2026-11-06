@@ -1,0 +1,39 @@
+{
+  "label": "PROVIDER_SIGNED / COMMITTED_QUOTE",
+  "retrievedAt": "2026-11-06T19:14:50.585Z",
+  "source": "https://1click.chaindefuser.com",
+  "endpoint": "POST /v0/quote",
+  "httpStatus": 200,
+  "correlationId": "d9aed937-2f56-456e-af5a-ae4173750ac8",
+  "timestamp": "2026-11-06T19:14:50.015Z",
+  "signatureValid": true,
+  "quoteRequest": {
+    "dry": false,
+    "swapType": "EXACT_INPUT",
+    "slippageTolerance": 100,
+    "originAsset": "nep141:base-0x833589fcd6edb6e08f4c7c32d4f71b54bda02913.omft.near",
+    "depositType": "ORIGIN_CHAIN",
+    "destinationAsset": "nep141:arb-0xaf88d065e77c8cc2239327c5edb3a432268e5831.omft.near",
+    "amount": "1000000",
+    "refundTo": "0xa568860f02DEf6CC6420F6721B774aa3a71c71d9",
+    "refundType": "ORIGIN_CHAIN",
+    "recipient": "0x659f1ddf3Afa31029B990D2202Df8B2094eE012E",
+    "recipientType": "DESTINATION_CHAIN",
+    "deadline": "2026-11-06T19:44:49.593Z"
+  },
+  "quote": {
+    "amountIn": "1000000",
+    "amountInFormatted": "1.0",
+    "amountOut": "994498",
+    "amountOutFormatted": "0.994498",
+    "amountOutUsd": "0.994003734494",
+    "minAmountIn": "1000000",
+    "minAmountOut": "984553",
+    "timeEstimate": 34,
+    "timeWhenInactive": "2026-11-09T19:44:49.593Z",
+    "deadline": "2026-11-09T19:44:49.593Z",
+    "depositAddress": "0x05d4...0E6b",
+    "withdrawFee": "5300",
+    "refundFee": "2400"
+  }
+}

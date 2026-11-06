@@ -1,0 +1,25 @@
+{
+  "label": "DERIVED / ROUTE_SUMMARY",
+  "retrievedAt": "2026-11-06T19:14:50.585Z",
+  "source": "https://1click.chaindefuser.com",
+  "endpoint": "POST /v0/quote",
+  "httpStatus": 200,
+  "route": {
+    "sourceAsset": "nep141:base-0x833589fcd6edb6e08f4c7c32d4f71b54bda02913.omft.near",
+    "sourceContract": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+    "sourceNetwork": "Base",
+    "sourceDecimals": 6,
+    "destinationAsset": "nep141:arb-0xaf88d065e77c8cc2239327c5edb3a432268e5831.omft.near",
+    "destinationContract": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
+    "destinationNetwork": "Arbitrum",
+    "destinationDecimals": 6,
+    "inputAmountBaseUnits": "1000000",
+    "inputAmountReadable": "1 USDC",
+    "slippageToleranceBps": 100,
+    "recipient": "0x659f1ddf3Afa31029B990D2202Df8B2094eE012E",
+    "recipientNetwork": "Arbitrum (DESTINATION_CHAIN)",
+    "refundTo": "0xa568860f02DEf6CC6420F6721B774aa3a71c71d9",
+    "refundNetwork": "Base (ORIGIN_CHAIN)",
+    "depositType": "ORIGIN_CHAIN"
+  }
+}

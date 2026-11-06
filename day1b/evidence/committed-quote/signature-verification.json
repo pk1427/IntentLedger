@@ -1,0 +1,9 @@
+{
+  "label": "DERIVED / SIGNATURE_VERIFICATION",
+  "retrievedAt": "2026-11-06T19:14:50.585Z",
+  "sdk": "@defuse-protocol/one-click-sdk-typescript@0.1.26",
+  "method": "verifyQuoteSignature()",
+  "message": "SHA-256 over stable JSON of quote request, quote fields, and timestamp; base58-encoded; Ed25519 verified against ONE_CLICK_MANAGER_PUB_KEY",
+  "signatureValid": true,
+  "dryQuoteSignatureValid": true
+}
